@@ -18,64 +18,65 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/djujeep/Girly-recipe.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+-HTML5 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+-CSS3
+
+-Google Fonts
+
+-Flexbox
+
+-Media Queries
+
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+ Styling with CSS
+I learned how to use:
 
-To see how you can add code snippets, see below:
+display: flex, justify-content, and align-items for layout.
+
+gap, margin, and padding to create space between and around elements.
+
+How to apply different Google Fonts to specific tags (h1, p, li, etc.).
+
+How to use color and font-weight to style elements like <strong> and headings differently.
+
+How to control my card size with width, max-width, and box-sizing.
+
+Responsive Design
+How to:
+
+Add a <meta name="viewport"> tag to make mobile layout work.
+
+Use media queries (@media) to change layout for larger screen sizes like desktops.
+
+Ensure the design adapts well to both mobile and desktop using max-width and width: 90%
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Semantic HTML (like <h2>, <ul>, <strong>) makes the content easy to understand and accessible</h1>
 ```
 ```css
 .proud-of-this-css {
-  color: papayawhip;
+  All css
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+``
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+-Improve how the card scales on all devices, especially large desktops and small mobile screens.
+-Organize files more cleanly — for example, separating CSS, images, and assets into folders.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - None for now
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
